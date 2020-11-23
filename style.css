@@ -1,0 +1,13 @@
+body{
+    background:radial-gradient(yellow,orange,crimson);
+}
+canvas{
+    
+    margin-left: 8.5%;
+    padding:10px;
+    border:10px solid rgb(219, 219, 219);
+    box-shadow:0 0 15px white,0 0 25px gray;
+}
+h1{
+    font-size:40px;
+}
